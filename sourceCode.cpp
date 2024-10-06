@@ -1,7 +1,8 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    // git mergegit
+
+    cout << "Hello World" << endl;
     return 0;
 }
